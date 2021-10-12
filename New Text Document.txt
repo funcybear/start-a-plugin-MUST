@@ -3,7 +3,7 @@ package {$TopLevelDomain}.{$Domain}.{$PluginName};
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class {PluginName} extends JavaPlugin {
+public final class {MainClass} extends JavaPlugin {
 
     @Override
     public void onEnable() {
