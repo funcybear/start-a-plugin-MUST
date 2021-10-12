@@ -4,15 +4,17 @@ package {$TopLevelDomain}.{$Domain}.{$PluginName};
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class {PluginName} extends JavaPlugin {
+
     @Override
     public void onEnable() {
-        // What will the message will be shown when the plugin is loaded?
+        // What code would be executed when the plugin is enabled:
     }
     
     @Override
     public void onDisable() 
-    //What will it show when it will be distabled
+        // What code would be executed when the plugin is enabled:
     }
+    
 }
 
 //Plugin YML MUST HAVE!
